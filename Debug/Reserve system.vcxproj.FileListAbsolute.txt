@@ -1,0 +1,2 @@
+D:\C语言学习\C++\Reserve system\Debug\Reserve system.exe
+D:\C语言学习\C++\Reserve system\Debug\Reserve system.pdb
